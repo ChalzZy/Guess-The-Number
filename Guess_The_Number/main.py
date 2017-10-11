@@ -1,4 +1,4 @@
-# Guess The Number Program - Charles Joseph Monaghan 11/10/2017
+# Guess The Number Program - Charles Joseph Monaghan
 
 # Useful module for selecting random numbers
 import random
